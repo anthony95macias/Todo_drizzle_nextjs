@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@neondatabase/serverless": "^0.9.1",
+    "drizzle-orm": "^0.30.10"
+  },
+  "devDependencies": {
+    "drizzle-kit": "^0.20.17"
+  }
+}
